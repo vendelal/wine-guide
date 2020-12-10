@@ -1,24 +1,67 @@
+// Variables
+$text-color: white;
+$good-text: #C1F5BC;
+$bad-text: #FFCDCD;
+
+$space-base: 1.5rem;
+$space-triple: $space-base * 3;
+
+@font-face {
+  font-family: "Atlas Grotesk";
+  src: asset-url("atlasgroteskRegular.woff") format("woff");
+  font-weight: 200;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Atlas Grotesk";
+  src: asset-url("atlasgroteskMedium.woff") format("woff");
+  font-weight: 600;
+  font-style: normal;
+}
+
 body {
-  background-color: #fbc547;
-  color: #333;
-  font-family: -apple-system, BlinkMacSystemFont, "Avenir Next", "Avenir",
-    "Segoe UI", "Lucida Grande", "Helvetica Neue", "Helvetica", "Fira Sans",
-    "Roboto", "Noto", "Droid Sans", "Cantarell", "Oxygen", "Ubuntu",
-    "Franklin Gothic Medium", "Century Gothic", "Liberation Sans", sans-serif;
-  padding: 18vh 1rem;
+  background-image: image-url("brown_paper.jpg");
+  color: white;
+  font-family: 'Atlas Grotesk', sans-serif;
+  font-weight: 200;
   text-align: center;
 }
 
-a {
-  color: rgba(#000, 0.7);
-
-  &:focus,
-  &:hover {
-    color: rgba(#000, 0.6);
-  }
+h1, h2, h3, h4 {
+  font-weight: 200;
+  text-transform: uppercase;
+  letter-spacing: 0.05rem;
 }
 
-.middleman-logo {
-  margin-bottom: 1rem;
-  width: 10rem;
+h1 {
+  margin: $space-triple $space-base;
+}
+
+h3 {
+  margin-top: $space-triple;
+}
+
+p {
+  margin-right: auto;
+  margin-left: auto;
+  max-width: 65ch;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.sketch {
+  position: absolute;
+
+  &__red-wine-glass {
+    left: $space-base;
+  }
+
+  &__grapes {
+    right: $space-base;
+    transform: rotate(5deg)
+  }
 }
