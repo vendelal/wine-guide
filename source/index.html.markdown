@@ -4,9 +4,9 @@ title: Vendela's Wine Guide
 
 # Wine Guide
 
-Why should you buy French or Italian wines? Massive generalization: they're not as sweet and heavy as American wines. They're a bit more specific and refined and you can find really good food pairings with a lot of them.
+This is a very over generalized guide made based on personal opinion. Please take recommendations with a grain of salt!
 
-Wines are labeled by region, not by grape variety, so you won't find "Cabernet Sauvignon" you'll find "Burgundy" which is a whole area of France.
+The content is based on what you might commonly see on wine labels in a store with a standard selection.
 
 <h1 class="section-title">
   <img src="images/wine-glass.png" class="sketch" width="100px" />
