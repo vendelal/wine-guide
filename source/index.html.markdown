@@ -25,26 +25,6 @@ Wines are labeled by region, not by grape variety, so you won't find "Cabernet S
 
 **Don't buy these:** Beaujolais Nouveau that's not from this year
 
-### Burgundy/Bourgogne
-
-**What is it:** A blend of grapes and wines from anywhere in Burgundy. If it's red, it'll be Pinot Noir. These are the cheaper Burgundies.
-
-**Tastes like:** Round, light, fruity.
-
-**With food:** Surprisingly good with fish. Also works with lighter meats like chicken, turkey, duck, lamb. But Pinot Noirs pair with a lot of food, they're a good restaurant choice.
-
-**Buy these:** Weirdly anyone outside of France can also use the label "Burgundy" on their wines. As long as you can see that it's actually from France, any bottle will probably be good enough.
-
-
-### Côtes du Rhône
-
-**What is it:** Southeastern France. Warmer = more alcohol. Grenache, Syrah, Cinsault, and Mourvèdre grapes.
-
-**Tastes like:** Heavier, full-bodied, fruity, ripe red berries, spicy.
-
-**With food:** Goes with poultry, cheese.
-
-**Buy these:** "Côtes du Rhône" = max 3 years old. "Châteauneuf-du-Pape" = 5+ years old.
 
 ### Bordeaux
 
@@ -57,6 +37,44 @@ Wines are labeled by region, not by grape variety, so you won't find "Cabernet S
 **Buy these:** Anything that says "Appellation Bordeaux Contrôlée" should be relatively inexpensive but very drinkable and delicious. One of my favorite types of wine and a safe bet.
 
 Pro tip: Blends with more Merlot in them will taste more fruity and are better younger. Blends with more Cabernet Sauvignon will be better after a few years. If you can see whether it's from the "right bank" it'll have more Merlot, if it's from the "left bank" it'll have more Cabernet.
+
+
+### Burgundy/Bourgogne
+
+**What is it:** A blend of grapes and wines from anywhere in Burgundy. If it's red, it'll be Pinot Noir. These are the cheaper Burgundies.
+
+**Tastes like:** Round, light, fruity.
+
+**With food:** Surprisingly good with fish. Also works with lighter meats like chicken, turkey, duck, lamb. But Pinot Noirs pair with a lot of food, they're a good restaurant choice.
+
+**Buy these:** Weirdly anyone outside of France can also use the label "Burgundy" on their wines. As long as you can see that it's actually from France, any bottle will probably be good enough.
+
+
+### Cabernet Sauvignon
+
+**What is it:** A natural cross between Cabernet Franc and Sauvignon Blanc from Bordeaux, France. Ages well.
+
+**Tastes like:** Very high tannins, rich, black cherry, black currant, cedar, baking spices, graphite.
+
+**With food:** Grilled meats, steak, peppery sauces.
+
+**Buy these:** For French cabs, look for ones from *the Médoc* in Bordeaux. For American cabs, look for ones from Napa Valley. For Australian cabs look for ones from the Southern parts. For Chilean cabs look for ones from Aconcagua, Maipo, Cachapoal and Colchagua Valleys.
+
+**Don't buy these:** Try to look up the vineyards, especially from California. If it's a massive production, try to avoid them. They can give you bad hangovers because there are a lot of fillers and other questionable materials in the wines. They also tend to run their vineyards in ways that are very harmful to the environment.
+
+Find which style of Cabs you prefer. French cabs are lighter and very different from California cabs. Both are extremely popular!
+
+
+### Côtes du Rhône
+
+**What is it:** Southeastern France. Warmer = more alcohol. Grenache, Syrah, Cinsault, and Mourvèdre grapes.
+
+**Tastes like:** Heavier, full-bodied, fruity, ripe red berries, spicy.
+
+**With food:** Goes with poultry, cheese.
+
+**Buy these:** "Côtes du Rhône" = max 3 years old. "Châteauneuf-du-Pape" = 5+ years old.
+
 
 ### Chianti
 
