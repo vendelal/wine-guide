@@ -13,6 +13,18 @@ The content is based on what you might commonly see on wine labels in a store wi
   Reds
 </h1>
 
+
+### Barolo/Barbaresco
+
+**What is it:** 100% Nebbiolo wine from Northwestern Italy. Some of the nicest wines from Italy. By law, these wines require a minimum of 26 months of aging.
+
+**Tastes like:** Dry, rich, full-bodied, high tannins, floral, herbal.
+
+**Similar wines:** Pinot noir from Burgundy
+
+**Buy these:** Less expensive Barolos can be really tasty and sound fancy.
+
+
 ### Beaujolais
 
 **What is it:** Southern part of Burgundy, Gamay grapes.
@@ -65,17 +77,6 @@ Pro tip: Blends with more Merlot in them will taste more fruity and are better y
 Find which style of Cabs you prefer. French cabs are lighter and very different from California cabs. Both are extremely popular!
 
 
-### Côtes du Rhône
-
-**What is it:** Southeastern France. Warmer = more alcohol. Grenache, Syrah, Cinsault, and Mourvèdre grapes.
-
-**Tastes like:** Heavier, full-bodied, fruity, ripe red berries, spicy.
-
-**With food:** Goes with poultry, cheese.
-
-**Buy these:** "Côtes du Rhône" = max 3 years old. "Châteauneuf-du-Pape" = 5+ years old.
-
-
 ### Chianti
 
 **What is it:** Wines from Tuscany made from Sangiovese grapes.
@@ -87,6 +88,18 @@ Find which style of Cabs you prefer. French cabs are lighter and very different 
 **Similar wines:** Montepulciano, Brunello di Montalcino, Vernaccia di San Gimignano, Carmignano
 
 **Buy these:** It's a bit tricky to buy a good one, if you can splurge and get a Chianti Classico it'll be significantly better.
+
+
+### Côtes du Rhône
+
+**What is it:** Southeastern France. Warmer = more alcohol. Grenache, Syrah, Cinsault, and Mourvèdre grapes.
+
+**Tastes like:** Heavier, full-bodied, fruity, ripe red berries, spicy.
+
+**With food:** Goes with poultry, cheese.
+
+**Buy these:** "Côtes du Rhône" = max 3 years old. "Châteauneuf-du-Pape" = 5+ years old.
+
 
 ### Rioja
 
@@ -105,66 +118,12 @@ Find which style of Cabs you prefer. French cabs are lighter and very different 
 - Bodegas Montecillo—Viña Comrero, Viña Monty
 - La Rioja Alta—Viña Alberdi, Viña Ardanza
 
-### Barolo/Barbaresco
-
-**What is it:** 100% Nebbiolo wine from Northwestern Italy. Some of the nicest wines from Italy. By law, these wines require a minimum of 26 months of aging.
-
-**Tastes like:** Dry, rich, full-bodied, high tannins, floral, herbal.
-
-**Similar wines:** Pinot noir from Burgundy
-
-**Buy these:** Less expensive Barolos can be really tasty and sound fancy.
 
 <h1 class="section-title">
   <img src="images/wine-glass-white.png" class="sketch" width="100px" />
   Whites
 </h1>
 
-### Sancerre
-
-**What is it:** Wines grown on the western bank of the Loire River. It's 100% sauvignon blanc, so it's basically just "a sauvignon blanc from France."
-
-**Tastes like:** Dry, high acid
-
-**With food:** Fresh cheeses, salty foods
-
-### Sauvignon Blanc
-
-**What is it:** A type of grape commonly found in France, originally from Bordeaux.
-
-**Tastes like:** Grassy, high-acid, crisp, dry
-
-**With food:** Fresh cheeses, salty foods, or just on its own.
-
-**Buy these:** Sancerre's are French sauvignon blancs. You can be reasonably safe buying a cheap sauvignon blanc.
-
-### Pinot Grigio
-
-**What is it:** The most popular white wine in Italy, and second most popular in the US.
-
-**Tastes like:** Lemons, limes, green apples and honeysuckle
-
-**Don't buy these:** Because it's so popular, it has resulted in some really bad mass production of this variety. Try to look up the vineyard, especially if it's at a cheaper price point, to see how big the production is. If it's huge, you might want to skip it.
-
-### Muscadet
-
-**What is it:** A white wine from the Loire Valley of France that is made with Melon de Bourgogne grapes.
-
-**Tastes like:** Minerals, salty, citrus, high-acid
-
-**With food:** Oysters! Seafood, citrus-y vinaigrettes
-
-**Buy these:** If you spend a little more money on a Muscadet and it's 3+ years old, you may get one that has been aged *sur lie* (it might even say it in the label) which means it's been aged with its suspended yeast particles. This creates a richer flavor almost like fresh bread or preserved lemons.
-
-### Moscato
-
-**What is it:** Sweet Italian wines made from Muscat Blanc, one of the oldest grape varieties in the world. Tends to be lower in alcohol.
-
-**Tastes like:** Peaches, orange, pear, honeysuckle, tropical.
-
-**With food:** Asian food, spicy food, chicken, flaky fish, goes well with cinnamon, ginger, cardamom. Goes with medium and firm cheeses.
-
-**Buy these:** Moscato d'Asti from Piedmont. These are popular and are actually from Italy (you can find moscatos from all around the world).
 
 ### Chablis
 
@@ -186,6 +145,38 @@ Find which style of Cabs you prefer. French cabs are lighter and very different 
 
 **Buy these:** If you're not into oaky flavors (toast, vanilla, butter, baking spices) in your wine, try going for a Chablis, or ask the person in the wine store for an unoaked Chardonnay. They're super crispy and more similar to Sauvignon Blanc or Pinot Grigio.
 
+
+### Moscato
+
+**What is it:** Sweet Italian wines made from Muscat Blanc, one of the oldest grape varieties in the world. Tends to be lower in alcohol.
+
+**Tastes like:** Peaches, orange, pear, honeysuckle, tropical.
+
+**With food:** Asian food, spicy food, chicken, flaky fish, goes well with cinnamon, ginger, cardamom. Goes with medium and firm cheeses.
+
+**Buy these:** Moscato d'Asti from Piedmont. These are popular and are actually from Italy (you can find moscatos from all around the world).
+
+
+### Muscadet
+
+**What is it:** A white wine from the Loire Valley of France that is made with Melon de Bourgogne grapes.
+
+**Tastes like:** Minerals, salty, citrus, high-acid
+
+**With food:** Oysters! Seafood, citrus-y vinaigrettes
+
+**Buy these:** If you spend a little more money on a Muscadet and it's 3+ years old, you may get one that has been aged *sur lie* (it might even say it in the label) which means it's been aged with its suspended yeast particles. This creates a richer flavor almost like fresh bread or preserved lemons.
+
+
+### Pinot Grigio
+
+**What is it:** The most popular white wine in Italy, and second most popular in the US.
+
+**Tastes like:** Lemons, limes, green apples and honeysuckle
+
+**Don't buy these:** Because it's so popular, it has resulted in some really bad mass production of this variety. Try to look up the vineyard, especially if it's at a cheaper price point, to see how big the production is. If it's huge, you might want to skip it.
+
+
 ### Pouilly-Fuissé
 
 **What is it:** Wine from a subregion of Burgundy called Mâconnais. It's 100% Chardonnay.
@@ -195,6 +186,27 @@ Find which style of Cabs you prefer. French cabs are lighter and very different 
 **With food:** Seafood.
 
 Note: Pouilly-Fuissé has quickly become one of my favorite white wines and is usually my go-to at restaurants. I find it's usually a bit more complex and flavorful than going with a Sauvignon Blanc or Chablis, but still seems to be a safe bet.
+
+
+### Sancerre
+
+**What is it:** Wines grown on the western bank of the Loire River. It's 100% sauvignon blanc, so it's basically just "a sauvignon blanc from France."
+
+**Tastes like:** Dry, high acid
+
+**With food:** Fresh cheeses, salty foods
+
+
+### Sauvignon Blanc
+
+**What is it:** A type of grape commonly found in France, originally from Bordeaux.
+
+**Tastes like:** Grassy, high-acid, crisp, dry
+
+**With food:** Fresh cheeses, salty foods, or just on its own.
+
+**Buy these:** Sancerre's are French sauvignon blancs. You can be reasonably safe buying a cheap sauvignon blanc.
+
 
 <h1 class="section-title">
   <img src="images/wine-glass-rose.png" class="sketch" width="100px" />
