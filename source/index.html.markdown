@@ -115,8 +115,6 @@ Find which style of Cabs you prefer. French cabs are lighter and very different 
 
 **Buy these:** Less expensive Barolos can be really tasty and sound fancy.
 
-A recommendation from Anna for a good California Cabernet Sauvignon: Avalon $10.99
-
 <h1 class="section-title">
   <img src="images/wine-glass-white.png" class="sketch" width="100px" />
   Whites
