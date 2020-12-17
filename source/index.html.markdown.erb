@@ -1,0 +1,38 @@
+---
+title: Vendela's Wine Guide
+---
+
+# Wine Guide
+
+This is a very over generalized guide made based on personal opinion. Please take recommendations with a grain of salt!
+
+The content is based on what you might commonly see on wine labels in a store with a standard selection.
+
+
+<% data.wine.categories.each do |category| %>
+
+  <h1 class="section-title">
+    <% tag :img , :src => category.image %>
+    <%= category.title %>
+  </h1>
+
+  <% category.wines.each do |wine| %>
+    <% content_tag :h3 do %>
+      <%= wine.title %>
+    <% end %>
+
+    <p>
+      <% wine.sections.each do |section| %>
+        <% content_tag :p do %>
+
+          <% content_tag :strong do %>
+            <%= section.section_title %>:
+          <% end %>
+
+          <%= section.section_content %>
+
+        <% end %>
+      <% end %>
+    </p>
+  <% end %>
+<% end %>
