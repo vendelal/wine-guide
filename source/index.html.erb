@@ -1,0 +1,20 @@
+<h1>Wine Guide</h1>
+
+<p>This is a very over generalized guide made based on personal opinion. Please take recommendations with a grain of salt!</p>
+
+<p>The content is based on what you might commonly see on wine labels in a store with a standard selection.</p>
+
+<% data.wines.categories.each do |category| %>
+
+  <h1 class="section-title">
+    <img src="images/<%= category.image %>" class="category__image"/>
+    <%= category.title %>
+  </h1>
+
+  <% category.wines.each do |wine| %>
+    <h3><%= wine.title %></h3>
+    <% wine.sections.each do |section| %>
+      <p><strong><%= section.section_title %>:</strong> <%= section.section_content %></p>
+    <% end %>
+  <% end %>
+<% end %>

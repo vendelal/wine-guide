@@ -1,9 +1,9 @@
 # Activate and configure extensions
 # https://middlemanapp.com/advanced/configuration/#configuring-extensions
 
-activate :autoprefixer do |prefix|
-  prefix.browsers = "last 2 versions"
-end
+# Data files
+# https://middlemanapp.com/advanced/data-files/
+set :data_dir, 'data'
 
 # Layouts
 # https://middlemanapp.com/basics/layouts/

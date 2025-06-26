@@ -1,0 +1,226 @@
+categories:
+  - title: Reds
+    image: wine-glass.png
+    wines:
+      - title: Barolo/Barbaresco
+        sections:
+          - section_title: What is it
+            section_content: 100% Nebbiolo wine from Northwestern Italy. Some of the nicest wines from Italy. By law, these wines require a minimum of 26 months of aging.
+          - section_title: Tastes like
+            section_content: Dry, rich, full-bodied, high tannins, floral, herbal.
+          - section_title: Similar wines
+            section_content: Pinot noir from Burgundy
+          - section_title: Buy these
+            section_content: Less expensive Barolos can be really tasty and sound fancy.
+
+      - title: Beaujolais
+        sections:
+          - section_title: What is it
+            section_content: Southern part of Burgundy, Gamay grapes.
+          - section_title: Tastes like
+            section_content: This wine will be light, spicy, pretty dry, and taste like cherries. Serve this chilled.
+          - section_title: With food
+            section_content: It's good with chicken or other bland or light foods, but it won't hold up amazingly to fatty cheeses and heavier meats. It's good for before dinner with light snacks. Food makes it taste way better.
+          - section_title: Buy these
+            section_content: Beaujolais-Villages or Beaujolais Crus
+          - section_title: Don't buy these
+            section_content: Beaujolais Nouveau that's not from this year
+
+      - title: Bordeaux
+        sections:
+          - section_title: What is it
+            section_content: Southwestern coast of France. Blends of Merlot and Cabernet Sauvignon. They're usually named "Château" something.
+          - section_title: Tastes like
+            section_content: Gravelly, blue/black fruits, smooth.
+          - section_title: With food
+            section_content: Beef and lamb, served with mushrooms. Fish, or just on its own.
+          - section_title: Buy these
+            section_content: Anything that says "Appellation Bordeaux Contrôlée" should be relatively inexpensive but very drinkable and delicious. One of my favorite types of wine and a safe bet.
+          - section_title: Pro tip
+            section_content: Blends with more Merlot in them will taste more fruity and are better younger. Blends with more Cabernet Sauvignon will be better after a few years. If you can see whether it's from the "right bank" it'll have more Merlot, if it's from the "left bank" it'll have more Cabernet.
+
+      - title: Burgundy/Bourgogne
+        sections:
+          - section_title: What is it
+            section_content: A blend of grapes and wines from anywhere in Burgundy. If it's red, it'll be Pinot Noir. These are the cheaper Burgundies.
+          - section_title: Tastes like
+            section_content: Round, light, fruity.
+          - section_title: With food
+            section_content: Surprisingly good with fish. Also works with lighter meats like chicken, turkey, duck, lamb. But Pinot Noirs pair with a lot of food, they're a good restaurant choice.
+          - section_title: Buy these
+            section_content: Weirdly anyone outside of France can also use the label "Burgundy" on their wines. As long as you can see that it's actually from France, any bottle will probably be good enough.
+
+      - title: Cabernet Sauvignon
+        sections:
+          - section_title: What is it
+            section_content: A natural cross between Cabernet Franc and Sauvignon Blanc from Bordeaux, France. Ages well.
+          - section_title: Tastes like
+            section_content: Very high tannins, rich, black cherry, black currant, cedar, baking spices, graphite.
+          - section_title: With food
+            section_content: Grilled meats, steak, peppery sauces.
+          - section_title: Buy these
+            section_content: For French cabs, look for ones from the Médoc in Bordeaux. For American cabs, look for ones from Napa Valley. For Australian cabs look for ones from the Southern parts. For Chilean cabs look for ones from Aconcagua, Maipo, Cachapoal and Colchagua Valleys.
+          - section_title: Don't buy these
+            section_content: Try to look up the vineyards, especially from California. If it's a massive production, try to avoid them. They can give you bad hangovers because there are a lot of fillers and other questionable materials in the wines. They also tend to run their vineyards in ways that are very harmful to the environment.
+
+      - title: Côtes du Rhône
+        sections:
+          - section_title: What is it
+            section_content: Southeastern France. Warmer = more alcohol. Grenache, Syrah, Cinsault, and Mourvèdre grapes.
+          - section_title: Tastes like
+            section_content: Heavier, full-bodied, fruity, ripe red berries, spicy.
+          - section_title: With food
+            section_content: Goes with poultry, cheese.
+          - section_title: Buy these
+            section_content: '"Côtes du Rhône" = max 3 years old. "Châteauneuf-du-Pape" = 5+ years old.'
+
+      - title: Chianti
+        sections:
+          - section_title: What is it
+            section_content: Wines from Tuscany made from Sangiovese grapes.
+          - section_title: Tastes like
+            section_content: Spicy, light, high acid, cherry, strawberry, roasted pepper, tomato.
+          - section_title: With food
+            section_content: Pizza! Tomato sauces, Italian food. (Although if you're getting pizza consider just having a Peroni instead 😉) Chianti is also a great alternative when you're having steak if it's a heavier and fruitier variety.
+          - section_title: Similar wines
+            section_content: Montepulciano, Brunello di Montalcino, Vernaccia di San Gimignano, Carmignano
+          - section_title: Buy these
+            section_content: It's a bit tricky to buy a good one, if you can splurge and get a Chianti Classico it'll be significantly better.
+
+      - title: Rioja
+        sections:
+          - section_title: What is it
+            section_content: Northern Spanish wine that tends to be similar in characteristic to French Bordeaux. Made from Tampranillo and Grenacha grapes.
+          - section_title: Buy these
+            section_content: |
+              Here's a list of the best Riojas:
+              - Federico Paternina—Banda Azul
+              - C.U.N.E.—Imperial, Viña Real
+              - Marqués de Cáceres
+              - Marqués de Riscal
+              - Bodegas Domecq-Margués de Arienzo
+              - Margués de Murrieta
+              - Ollara
+              - Bodegas Riojanas
+              - Bodegas Montecillo—Viña Comrero, Viña Monty
+              - La Rioja Alta—Viña Alberdi, Viña Ardanza
+
+  - title: Whites
+    image: wine-glass-white.png
+    wines:
+      - title: Sancerre
+        sections:
+          - section_title: What is it
+            section_content: Wines grown on the western bank of the Loire River. It's 100% sauvignon blanc, so it's basically just "a sauvignon blanc from France."
+          - section_title: Tastes like
+            section_content: Dry, high acid
+          - section_title: With food
+            section_content: Fresh cheeses, salty foods
+
+      - title: Sauvignon Blanc
+        sections:
+          - section_title: What is it
+            section_content: A type of grape commonly found in France, originally from Bordeaux.
+          - section_title: Tastes like
+            section_content: Grassy, high-acid, crisp, dry
+          - section_title: With food
+            section_content: Fresh cheeses, salty foods, or just on its own.
+          - section_title: Buy these
+            section_content: Sancerre's are French sauvignon blancs. You can be reasonably safe buying a cheap sauvignon blanc.
+
+      - title: Pinot Grigio
+        sections:
+          - section_title: What is it
+            section_content: The most popular white wine in Italy, and second most popular in the US.
+          - section_title: Tastes like
+            section_content: Lemons, limes, green apples and honeysuckle
+          - section_title: Don't buy these
+            section_content: Because it's so popular, it has resulted in some really bad mass production of this variety. Try to look up the vineyard, especially if it's at a cheaper price point, to see how big the production is. If it's huge, you might want to skip it.
+
+      - title: Muscadet
+        sections:
+          - section_title: What is it
+            section_content: A white wine from the Loire Valley of France that is made with Melon de Bourgogne grapes.
+          - section_title: Tastes like
+            section_content: Minerals, salty, citrus, high-acid
+          - section_title: With food
+            section_content: Oysters! Seafood, citrus-y vinaigrettes
+          - section_title: Buy these
+            section_content: If you spend a little more money on a Muscadet and it's 3+ years old, you may get one that has been aged sur lie (it might even say it in the label) which means it's been aged with its suspended yeast particles. This creates a richer flavor almost like fresh bread or preserved lemons.
+
+      - title: Moscato
+        sections:
+          - section_title: What is it
+            section_content: Sweet Italian wines made from Muscat Blanc, one of the oldest grape varieties in the world. Tends to be lower in alcohol.
+          - section_title: Tastes like
+            section_content: Peaches, orange, pear, honeysuckle, tropical.
+          - section_title: With food
+            section_content: Asian food, spicy food, chicken, flaky fish, goes well with cinnamon, ginger, cardamom. Goes with medium and firm cheeses.
+          - section_title: Buy these
+            section_content: Moscato d'Asti from Piedmont. These are popular and are actually from Italy (you can find moscatos from all around the world).
+
+      - title: Chablis
+        sections:
+          - section_title: What is it
+            section_content: Unoaked Chardonnays from Burgundy, France.
+          - section_title: Tastes like
+            section_content: Dry, light, mineral-y, salty, citrus-y
+          - section_title: With food
+            section_content: Sushi! Light, creamy sauces. Chicken, trout, bass, halibut, cod, clams, scallops.
+          - section_title: Buy these
+            section_content: It's a good time to buy Chablis from the past few years because climate change has made growing Chardonnay grapes in Burgundy easier. If you can splurge ($25+) on a bottle labelled Premier (1er) Cru Chablis AOP, you'll get a wine from a vineyard that's in the top 15% of quality locations in the region.
+
+      - title: Chardonnay
+        sections:
+          - section_title: What is it
+            section_content: An extremely popular white grape from France that's now grown everywhere. Often aged in oak and was most popular in the 90s, people seem to hate oak nowadays.
+          - section_title: Tastes like
+            section_content: Medium dry, yellow apple, pineapple, vanilla, butter.
+          - section_title: With food
+            section_content: Creamy, buttery, triple cheeses, nothing spicy or too flavorful. Lobster is a classic pairing.
+          - section_title: Buy these
+            section_content: If you're not into oaky flavors (toast, vanilla, butter, baking spices) in your wine, try going for a Chablis, or ask the person in the wine store for an unoaked Chardonnay. They're super crispy and more similar to Sauvignon Blanc or Pinot Grigio.
+
+      - title: Pouilly-Fuissé
+        sections:
+          - section_title: What is it
+            section_content: Wine from a subregion of Burgundy called Mâconnais. It's 100% Chardonnay.
+          - section_title: Tastes like
+            section_content: Rich, full-bodied, crisp, slightly oaky.
+          - section_title: With food
+            section_content: Seafood.
+          - section_title: Note
+            section_content: Pouilly-Fuissé has quickly become one of my favorite white wines and is usually my go-to at restaurants. I find it's usually a bit more complex and flavorful than going with a Sauvignon Blanc or Chablis, but still seems to be a safe bet.
+
+  - title: Rosé
+    image: wine-glass-rose.png
+    wines:
+      - title: Rosé
+        sections:
+          - section_title: General
+            section_content: |
+              If I'm buying a rosé from a store with a very standard selection, or even a grocery store, I always choose one that's from Provence, France. They are lighter in color and tend to be that refreshing, crisp, dry summer drink you want.
+
+              If I'm buying a rosé from a store with a more curated selection and where the staff seem to know a bit about wine, I tend to go for darker rosés because they might have more flavor imparted from the skins or other red wines. Gamay or Pinot Noir rosés have both resulted in interesting drinking experiences for me.
+
+  - title: Orange Wine
+    image: wine-glass-orange.png
+    wines:
+      - title: Orange Wine
+        sections:
+          - section_title: What is it
+            section_content: Orange wines are white wines that are made in the style of red wines. Red wines are red because they're pressed with their red skins (all grapes are pretty much white on the inside). Orange wines have been pressed with the skins of white grapes. If you're a real wine-o you wouldn't call these "orange wines" you would say "skin contact."
+          - section_title: Note
+            section_content: These wines aren't new, but are just now becoming very popular. Unless you're at a restaurant that seems to have a very well curated wine program, picking the orange wine might not be your best bet. It could just be that they put the cheapest one they could find on their menu to seem cool.
+
+  - title: Natural Wine
+    image: wine-glass-natural.png
+    wines:
+      - title: Natural Wine
+        sections:
+          - section_title: What is it
+            section_content: Natural wine is an extremely loose term that's meant to mean "hasn't been messed with." This can take many forms. A lot of the time it means that the farming to produce the grapes was organic or even biodynamic.
+          - section_title: Characteristics
+            section_content: A characteristic of these wines can often be called "funky." This can mean it's a flavor that's different from traditional wines and might smell and taste more fermented, yeasty, or just unique somehow.
+          - section_title: Note
+            section_content: They're fun if you want to try something new, sometimes have really cool label artwork, and make for a great tasting experience even if you don't necessarily find your new favorite.

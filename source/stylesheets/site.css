@@ -1,11 +1,3 @@
-// Variables
-$text-color: white;
-$good-text: #C1F5BC;
-$bad-text: #FFCDCD;
-
-$space-base: 1.5rem;
-$space-triple: $space-base * 3;
-
 @font-face {
   font-family: "Atlas Grotesk";
   src: asset-url("atlasgroteskRegular.woff") format("woff");
@@ -21,7 +13,7 @@ $space-triple: $space-base * 3;
 }
 
 body {
-  background-image: image-url("brown_paper.jpg");
+  background-image: url("../images/brown_paper.jpg");
   color: white;
   font-family: 'Atlas Grotesk', sans-serif;
   font-weight: 200;
@@ -35,14 +27,15 @@ h1, h2, h3, h4 {
 }
 
 h1 {
-  margin: $space-triple $space-base;
+  margin: 3rem 1rem;
 }
 
 h3 {
-  margin-top: $space-triple;
+  margin-top: 3rem;
 }
 
 p {
+  line-height: 1.5;
   margin-right: auto;
   margin-left: auto;
   max-width: 65ch;
@@ -59,6 +52,7 @@ ul {
   flex-direction: column;
 }
 
-.sketch {
+.category__image {
   margin-bottom: 2rem;
+  width: 4rem;
 }
