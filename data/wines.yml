@@ -195,7 +195,7 @@ categories:
   - title: Rosé
     image: wine-glass-rose.png
     wines:
-      - title: Rosé
+      - title: About Rosé
         sections:
           - section_title: General
             section_content: |
@@ -206,7 +206,7 @@ categories:
   - title: Orange Wine
     image: wine-glass-orange.png
     wines:
-      - title: Orange Wine
+      - title: About Orange Wine
         sections:
           - section_title: What is it
             section_content: Orange wines are white wines that are made in the style of red wines. Red wines are red because they're pressed with their red skins (all grapes are pretty much white on the inside). Orange wines have been pressed with the skins of white grapes. If you're a real wine-o you wouldn't call these "orange wines" you would say "skin contact."
@@ -216,7 +216,7 @@ categories:
   - title: Natural Wine
     image: wine-glass-natural.png
     wines:
-      - title: Natural Wine
+      - title: About Natural Wine
         sections:
           - section_title: What is it
             section_content: Natural wine is an extremely loose term that's meant to mean "hasn't been messed with." This can take many forms. A lot of the time it means that the farming to produce the grapes was organic or even biodynamic.
@@ -224,3 +224,41 @@ categories:
             section_content: A characteristic of these wines can often be called "funky." This can mean it's a flavor that's different from traditional wines and might smell and taste more fermented, yeasty, or just unique somehow.
           - section_title: Note
             section_content: They're fun if you want to try something new, sometimes have really cool label artwork, and make for a great tasting experience even if you don't necessarily find your new favorite.
+      - title: Bubbly Natural Wine
+        sections:
+          - section_title: What is it
+            section_content: Often (but not always) made in the "ancestral method" which means trapping the carbon dioxide naturally produced by yeasts as they eat sugar.
+          - section_title: Characteristics
+            section_content: If they've been made using the ancestral method, the bubbles aren't as big and as many as what you're used to in a soda. They can come in any color; white, pink, orange, and red.
+          - section_title: Buy these
+            section_content: Pét nats (pétillants naturels). These are varied, and refer to wines using this ancestral method. They're exciting, and very fun and surprising to taste.
+      - title: White Natural Wine
+        sections:
+          - section_title: What is it
+            section_content: Because natural wine doesn't rely on sulfites and lysosomes throughout the process, they allow their wine to be exposed to oxygen and have more skin contact in order to vary and deepen flavor.
+          - section_title: Characteristics
+            section_content: These wines often have a greater variety of flavor profiles, are fuller in style and more individualistic. They have less of the zippy tartness associated with some of the conventional white wine. Some people think they taste like cider.
+          - section_title: Buy these
+            section_content: Sauvignon Blancs; conventional ones are bright and citrusy, but natural versions can taste like honey and have a creamy mouth feel. They're a fun experience!
+          - section_title: Don't buy these
+            section_content: Wines from Germany and Austria. They often block the malolactic fermentation process. Blocking the process is what creates a tart, zippy wine, so if you want the full experience of a natural white wine, you'll want to look for places that allow it to happen.
+      - title: Orange Natural Wine
+        sections:
+          - section_title: What is it
+            section_content: Wine that has been left to ferment on its skins, pips, and possibly stems. The color can range from very light to almost rust colored. Slovenia and Italian Collio are leaders in making orange wine which is still quite rare, even though it's gotten pretty popular. Many Georgians also make it at home (the country, not the US state).
+          - section_title: Characteristics
+            section_content: Because of the tannins produced from the skins, these wines can almost taste like red wines if you taste them blind. They're better in large glasses, and you don't want to drink them too cold. Treat them like a red wine to maximize the flavor.
+          - section_title: With food
+            section_content: Roasted vegetables, fermented foods (kimchi, sauerkraut), Moroccan or Indian spices, cheese boards or charcuterie
+          - section_title: Buy these
+            section_content: For more floral and exotic wines, try aromatic grapes like Gewürztraminer, Muscat, or Malvasia. For a truer expression of skin contact that produces dried herbs, cider, or tea notes, try neutral grapes like Pinot Grigio, or Trebbiano. For a balance of acidity, funk, and structure, try Riesling or Chenin Blanc.
+          - section_title: Don't buy these
+            section_content: Wines from Germany and Austria. They often block the malolactic fermentation process. Blocking the process is what creates a tart, zippy wine, so if you want the full experience of a natural white wine, you'll want to look for places that allow it to happen. If you read up on them you can get more specific, because obviously not all wines from these countries do this.
+      - title: Red Natural Wine
+        sections:
+          - section_title: What is it
+            section_content: They might not be that different from conventional reds since reds are made more naturally than other wines (generally).
+          - section_title: Characteristics
+            section_content: Less oaky because aak barrels are usually avoided. They tend to be fresh and digestible in a really good way.
+          - section_title: Buy these
+            section_content: Follow similar guidelines from the conventional reds above based on what your preferences are.
