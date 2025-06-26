@@ -35,6 +35,35 @@ h1, h2, h3, h4 {
 h1 {
   font-size: 48pt;
   margin: 3rem 1rem;
+  position: relative;
+}
+
+h1::before {
+  background-image: url("../images/wine-bottle1.png");
+  background-size: contain; /* or cover */
+  background-repeat: no-repeat;
+  background-position: center;
+  content: "";
+  display: block;
+  height: 8.5rem;
+  left: 48%;
+  top: -60%;
+  transform: rotate(12deg);
+  position: absolute;
+  width: 3.5rem;
+  z-index: -1;
+}
+
+@media (max-width: 1000px) {
+  h1::before {
+    left: 45%;
+  }
+}
+
+@media (min-width: 2280px) {
+  h1::before {
+    left: 48.5%;
+  }
 }
 
 h2 {
@@ -55,9 +84,17 @@ p {
   max-width: 65ch;
 }
 
+strong {
+  font-weight: 600;
+}
+
 ul {
   list-style-type: none;
   padding: 0;
+}
+
+a {
+  color: white;
 }
 
 .section-title {
