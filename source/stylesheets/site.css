@@ -1,14 +1,21 @@
 @font-face {
   font-family: "Atlas Grotesk";
-  src: asset-url("atlasgroteskRegular.woff") format("woff");
+  src: url("../fonts/atlasgroteskThin.otf") format("woff");
   font-weight: 200;
   font-style: normal;
 }
 
 @font-face {
   font-family: "Atlas Grotesk";
-  src: asset-url("atlasgroteskMedium.woff") format("woff");
+  src: url("../fonts/atlasgroteskMedium.woff") format("woff");
   font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Kula";
+  src: url("../fonts/TAYKula.woff") format("woff");
+  font-weight: 400;
   font-style: normal;
 }
 
@@ -21,20 +28,27 @@ body {
 }
 
 h1, h2, h3, h4 {
-  font-weight: 200;
-  text-transform: uppercase;
-  letter-spacing: 0.05rem;
+  font-family: 'Kula', sans-serif;
+  font-weight: 400;
 }
 
 h1 {
+  font-size: 48pt;
+  margin: 3rem 1rem;
+}
+
+h2 {
+  font-size: 36pt;
   margin: 3rem 1rem;
 }
 
 h3 {
-  margin-top: 3rem;
+  font-size: 24pt;
+  margin-top: 4rem;
 }
 
 p {
+  font-weight: normal;
   line-height: 1.5;
   margin-right: auto;
   margin-left: auto;
@@ -53,6 +67,6 @@ ul {
 }
 
 .category__image {
-  margin-bottom: 2rem;
+  margin: 4rem 0 2rem;
   width: 4rem;
 }

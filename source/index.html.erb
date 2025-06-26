@@ -6,10 +6,10 @@
 
 <% data.wines.categories.each do |category| %>
 
-  <h1 class="section-title">
+  <h2 class="section-title">
     <img src="images/<%= category.image %>" class="category__image"/>
     <%= category.title %>
-  </h1>
+  </h2>
 
   <% category.wines.each do |wine| %>
     <h3><%= wine.title %></h3>
